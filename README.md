@@ -1,2 +1,2 @@
-# Geospatial-Data-Modeling
+# Geospatial Data Modeling
 Geospatial data modeling using Python
